@@ -1,0 +1,17 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.jumbotron {
+    background-image: url(hackerman.jpg);
+    background-size: cover;
+    color: black;
+    font-family: 'PT Serif', serif;
+}
+
+.navbar a:hover {
+    color: black;
+}
